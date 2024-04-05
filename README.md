@@ -12,6 +12,7 @@ Case Study Questions:
 10.	In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi — how many points do customers A and B have at the end of January?
 
 Summary of insights:
+
 •	Customer B is the most frequent visitor with 6 visits in Jan 2021.
 
 •	Danny’s Diner’s most popular item is ramen.
