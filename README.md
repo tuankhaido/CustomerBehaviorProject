@@ -13,11 +13,17 @@ Case Study Questions:
 
 Summary of insights:
 •	Customer B is the most frequent visitor with 6 visits in Jan 2021.
+
 •	Danny’s Diner’s most popular item is ramen.
+
 •	Customer A and C loves ramen whereas Customer B seems to enjoy sushi, curry and ramen equally.
+
 •	Customer A is the 1st member of Danny’s Diner and his first order is curry.
+
 •	Before they became members, Customer A and Customer B spent $25 and $40 respectively.
+
 •	Throughout Jan 2021, Customer A, Customer B and Customer C had 860 points, 940 points and Customer C: 360 points respectively.
+
 •	Assuming that members can earn 2x points a week from the day they became a member — not just sushi, Customer A has 1370 points and Customer B has 820 points by the end of Jan 2021.
 
 
